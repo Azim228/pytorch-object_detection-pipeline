@@ -1,9 +1,0 @@
-color_mode=rgb
-root=my_project
-main_dir=D:\github_project
-version=1
-final_model_name=my_project_rgb.onnx
-batch_size=6
-num_epochs=20
-num_classes=2
-lr=0.001
